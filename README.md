@@ -1,4 +1,4 @@
-<!-- ## Foundry
+## Foundry
 
 
 We go through creating 2 different kinds of NFTs.
@@ -16,11 +16,9 @@ We go through creating 2 different kinds of NFTs.
 </p>
 <br/>
 
-- [Foundry NFT](#foundry-nft)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Start a local node](#start-a-local-node)
   - [Deploy](#deploy)
@@ -188,7 +186,7 @@ forge fmt
 data:image/svg/+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRw
 Oi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+Cjx0ZXh0
 IHg9IjAiIHk9IjE1IiBmaWxsPSJibGFjayI+SGkhIFlvdXIgYnJvd3NlciBkZWNvZGVkIHRoaXM8
-L3RleHQ+Cjwvc3ZnPg== -->
+L3RleHQ+Cjwvc3ZnPg==
 
 Happy SVG:
 data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDIwMCIgd2lkdGg9IjQwMCIgIGhlaWdodD0iNDAwIiB4bWxu
